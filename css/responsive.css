@@ -1,0 +1,707 @@
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575px){ 
+
+	.nav-item{
+
+		text-align: center;
+	}
+
+	.banner_content h1{
+
+	
+	font-size: 24px;
+	margin-top: 70px;
+}
+
+.pro_cotent h2{
+
+	margin-top: 50px;
+	font-size: 30px;		
+}
+
+/*ingredients part responsive start*/
+.ingredients-overlay{
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 1px;
+	padding: 10px 10px;
+}
+.ingredients_ccontent h4{
+
+	margin-bottom: 20px;
+	font-size: 30px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;	
+}
+
+.ingredients_ccontent p{
+
+	font-size: 15px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	line-height: 25px;
+}
+/*ingredients part responsive end*/
+
+/*menu part responsive start*/
+.menu_content{
+
+	margin-bottom: 40px;
+	margin-top: 40px;
+	margin-left: 1px;
+	margin-right: 1px;
+	
+}
+.menu_content h4{
+
+	margin-bottom: 20px;
+	margin-top: 40px;
+	font-size: 30px;	
+}
+
+h5{
+	margin-top: 10px;
+	margin-bottom: 0;
+	font-size: 13px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;	
+	
+}
+.regular{
+
+	height: 50px;
+	width: 300px;
+	padding-left: 1px;
+	padding-right: 1px; 
+}
+
+.special{
+	height: 50px;
+	width: 300px;
+	padding-left: 1px;
+	padding-right: 1px; 
+}
+
+.menu_content p{
+
+	font-size: 12px;
+}
+
+
+.line2{
+
+	word-spacing: 164px;
+}
+
+.line3{
+
+	word-spacing: 164px;
+}
+.line4{
+
+	word-spacing: 182px;
+}
+
+.line6{
+
+	word-spacing: 188px;
+}
+.line7{
+
+	word-spacing: 210px;
+}
+.line8{
+
+	word-spacing: 190px;
+}
+.line9{
+
+	word-spacing: 153px;
+}
+.line10{
+
+	word-spacing: 174px;
+}
+.line11{
+
+	word-spacing: 208px;
+}
+.menu_content button{
+
+	margin-left: -16px;
+}
+/*menu part responsive end*/
+
+/*review part responsive start*/
+.review_overlay{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 2px;
+	padding-right: 2px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+.review_content h4{
+
+	margin-bottom: 20px;
+	padding-top: 45px;
+	font-size: 30px;
+}
+
+.quotetion p{
+
+	font-size: 15px;
+	line-height: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+
+
+
+.quotetion h6{
+
+	font-size: 14px;
+	margin-top: 15px;
+	padding-bottom: 45px;
+
+}
+
+/*review part responsive end*/
+
+/*reservation part responsive start*/
+.reservation_image{
+
+	margin-top: 30px;
+	margin-bottom: 1px;
+}
+.reservation_image img{
+
+	object-fit: none;
+}
+.reservation_content{
+
+	margin-top: 30px;
+}
+.reservation_content h4{
+
+	margin-bottom: 20px;
+	
+	font-size: 28px;	
+}
+.reservation_content p{
+
+	font-size: 12px;
+	margin-left: 1px;
+}
+.form_reservation{
+
+	margin-left: 60px;
+}
+.reservation_button{
+
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+	 
+}
+
+/*reservation part responsive end*/
+
+/*footer part responsive start*/
+
+dl, ol, ul {
+    margin-top: -35px;
+    margin-bottom: 7rem;
+}
+
+ol, ul {
+    padding-left: 5rem;
+}
+/*footer part responsive end*/
+
+	 }
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px){ 
+
+	.nav-item{
+
+		text-align: center;
+	}
+	.banner_content h1{
+
+	font-size: 40px;
+	margin-top: 70px;
+}
+
+.pro_cotent h2{
+
+	margin-top: 50px;
+	font-size: 32px;		
+}
+
+/*ingredients part responsive start*/
+.ingredients-overlay{
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 5px;
+	padding: 10px 10px;
+}
+.ingredients_ccontent h4{
+
+	
+	font-size: 30px;
+	
+}
+
+.ingredients_ccontent p{
+
+	font-size: 15px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	line-height: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.ingredients-divider img{
+
+	object-fit: none;
+}
+/*ingredients part responsive end*/
+
+/*review part responsive start*/
+.review_overlay{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 2px;
+	padding-right: 2px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+.review_content h4{
+
+	margin-bottom: 20px;
+	padding-top: 45px;
+	font-size: 30px;
+}
+
+.quotetion p{
+
+	font-size: 15px;
+	line-height: 25px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 15px;
+}
+
+
+.quotetion h6{
+
+	font-size: 14px;
+	margin-top: 15px;
+	padding-bottom: 45px;
+
+}
+
+.review_overlay{
+
+	margin-left: 30px;
+	margin-right: 30px;	
+}
+
+/*review part responsive end*/
+
+	/*reservation part responsive start*/
+.reservation_image{
+
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.reservation_image img{
+
+	object-fit: none;
+}
+.reservation_content{
+
+	margin-top: 10px;
+}
+.reservation_content h4{
+
+	margin-bottom: 32px;
+	
+	font-size: 28px;	
+}
+.reservation_content p{
+
+	font-size: 16px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.form_reservation{
+
+	margin-left: 60px;
+}
+.reservation_button{
+
+	margin-bottom: 40px;
+	 
+}
+
+/*reservation part responsive end*/
+/*footer part responsive start*/
+
+.footer_about p{
+
+	margin-bottom: 40px;
+}
+ol, ul {
+    padding-left: 4rem;
+}
+
+/*footer part responsive end*/
+
+	 }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) { 
+
+	.nav-item{
+
+		text-align: center;
+	}
+
+	.banner_content h1{
+
+	font-size:65px;
+	margin-top: 80px;
+
+}
+
+/*<!-- promo part responsiv start -->*/
+.pro_cotent h2{
+
+	margin-top: 70px;
+	margin-bottom: 15px;
+	
+	font-size: 25px;
+		
+}
+
+.pro_cotent p{
+
+	
+	font-size: 14px;
+	
+	margin-left: 35px;
+	margin-right: 15px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+
+/*<!-- promo part responsiv end -->*/
+/*ingredients part responsive start*/
+.ingredients-overlay{
+
+	
+	margin-top: 70px;
+	margin-bottom: 70px;
+	margin-left: 335px;
+	padding: 50px 50px;
+}
+.ingredients_ccontent h4{
+
+	
+	font-size: 30px;
+	
+}
+
+.ingredients-divider img{
+
+	object-fit: none;
+}
+
+/*ingredients part responsive end*/
+
+/*menu part responsive start*/
+.menu_content{
+
+	
+	margin-left: 15px;
+	margin-right: 15px;
+	
+}
+
+.menu_content h4{
+
+	margin-bottom: 20px;
+	margin-top: 40px;
+	font-size: 30px;	
+}
+
+h5{
+	margin-top: 10px;
+	margin-bottom: 0;
+	font-size: 13px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;	
+	
+}
+.regular{
+
+	height: 50px;
+	width: 300px;
+	padding-left: 1px;
+	padding-right: 1px; 
+}
+
+.special{
+	height: 50px;
+	width: 300px;
+	padding-left: 1px;
+	padding-right: 1px; 
+}
+
+.menu_content p{
+
+	font-size: 12px;
+}
+
+.line2{
+
+	word-spacing: 164px;
+}
+
+.line3{
+
+	word-spacing: 164px;
+}
+.line4{
+
+	word-spacing: 182px;
+}
+
+.line6{
+
+	word-spacing: 188px;
+}
+.line7{
+
+	word-spacing: 210px;
+}
+.line8{
+
+	word-spacing: 190px;
+}
+.line9{
+
+	word-spacing: 153px;
+}
+.line10{
+
+	word-spacing: 174px;
+}
+.line11{
+
+	word-spacing: 208px;
+}
+.menu_content button{
+
+	margin-left: -16px;
+}
+/*menu part responsive end*/
+/*review part responsive start*/
+.review_overlay {
+ 
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.quotetion p{
+
+	font-size: 20px;
+	line-height: 35px;
+	margin-left: 15px;
+	margin-right: 15px;
+	
+}
+
+
+/*review part responsive end*/
+/*reservation part responsive start*/
+
+.reservation_content{
+
+	margin-top: 20px;
+}
+.reservation_content h4{
+
+	margin-bottom: 20px;
+	
+	font-size: 20px;	
+}
+.reservation_content p{
+
+	font-size: 12px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.reservation_content p span{
+	display: none;
+}
+.form_reservation{
+
+	margin-left: 10px;
+}
+.reservation_button{
+
+	margin-bottom: 40px;
+	 
+}
+
+/*reservation part responsive end*/
+/*footer part responsive start*/
+.footer_about img{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+.footer_about p{
+
+	margin-top: 15px;
+	
+	line-height: 20px;
+	font-size: 13px;
+}
+.footer_content p{
+
+	margin-top: 15px;
+	
+	line-height: 20px;
+	font-size: 13px;
+}
+.footer_content img{
+
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
+ol, ul {
+    padding-left: 3rem;
+}
+
+/*footer part responsive end*/
+	 }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	.navbar-nav .nav-item {
+    margin-left: 12px;
+}
+
+	.banner_content h1{
+
+	font-size: 80px;
+	margin-top: 80px;
+
+}
+/*ingredients part responsive start*/
+.ingredients-overlay{
+
+	
+	margin-top: 70px;
+	margin-bottom: 70px;
+	margin-left: 430px;
+	padding: 50px 50px;
+}
+
+.ingredients-divider img{
+
+	object-fit: none;
+}
+/*ingredients part responsive end*/
+
+/*menu part responsive start*/
+.menu_content{
+
+	
+	margin-left: 65px;
+	margin-right: 65px;
+	
+}
+/*menu part responsive end*/
+
+/*review part responsive start*/
+.review_overlay {
+ 
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+
+/*review part responsive end*/
+/*reservation part responsive start*/
+.form_reservation {
+    margin-left: 65px;
+}
+.reservation_button {
+   
+    margin-left: 100px;
+}
+/*reservation part responsive start*/
+
+
+ }
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399px) { 
+
+	.ingredients-divider img{
+
+	object-fit: none;
+}
+
+
+
+
+
+	 }
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+	.ingredients-divider img{
+
+	object-fit: none;
+}
+
+.menu_content button {
+   
+    margin-left: 275px;
+  
+}
+
+.ingredients_ccontent p{
+
+	font-size: 20px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	line-height: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+
+	 }
+
+
+
